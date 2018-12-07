@@ -1,2 +1,4 @@
-# collaborate
-It is my first respository
+# ML - learning
+This contains many machine learning codes with examples
+
+
