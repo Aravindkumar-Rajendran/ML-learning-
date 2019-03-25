@@ -1,6 +1,6 @@
 # ML - learning 
 
-A test directory of Github
+my github test directory
 
 
 
